@@ -1,0 +1,10 @@
+
+fastapi
+uvicorn
+langchain
+pinecone-client
+sentence-transformers
+pytesseract
+Pillow
+ollama
+requests
